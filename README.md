@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%2C+I%27m+Sithi;Welcome+to+my+GitHub+profile!;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization;Data+Science+%26+AI&center=true&width=700&height=60)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%2C+I%27m+Sithi;Welcome+to+my+GitHub+profile!;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Data+Visualization;Data+Science+%26+AI&center=true&width=700&height=60)](https://git.io/typing-svg)
 
 # Hello, I'm Sithi 👋
 
