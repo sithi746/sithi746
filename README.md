@@ -20,7 +20,7 @@ I'm Sithi Samanta, an aspiring Data Analyst passionate about transforming data i
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/sithisamanta-81a100290)
+[LinkedIn](https://linkedin.com/in/sithisamanta-81a100290)
 
 ## 📈 Currently Learning
 - Advanced SQL
