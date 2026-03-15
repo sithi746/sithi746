@@ -19,9 +19,8 @@ I'm Sithi Samanta, an aspiring Data Analyst passionate about transforming data i
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 🌐 Connect With Me
-[LinkedIn](www.linkedin.com/in/-sithisamanta-81a100290)
 
-[GitHub](https://github.com/sithi746)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sithi_Samanta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sithisamanta-81a100290)
 
 ## 📈 Currently Learning
 - Advanced SQL
