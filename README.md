@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Exploring+Data+Science+%26+AI&center=true&width=500&height=50)](https://git.io/typing-svg)# Hi there, I'm Sithi Samanta 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Exploring+Data+Science+%26+AI&center=true&width=500&height=50)](https://git.io/typing-svg)
+                                                                                                                                
+# Hello, myself sithi 
+                                                                                                       
 Welcome to my GitHub profile!
 
 I’m an aspiring **Data Analyst** passionate about:
